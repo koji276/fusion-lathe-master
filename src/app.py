@@ -6,7 +6,7 @@ from main import analyze_and_compare
 st.set_page_config(page_title="FUSION Lathe-Master", page_icon="🛠️")
 
 st.title("🛠️ FUSION Lathe-Master")
-st.write("サカイテックさんの「現場の知恵」をデジタルで可視化します。")
+st.write("英一郎さんの「現場の知恵」をデジタルで可視化します。")
 
 # ロジックの読み込み
 with open("data/master_logic.json", "r", encoding="utf-8") as f:
