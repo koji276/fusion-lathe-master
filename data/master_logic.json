@@ -1,0 +1,8 @@
+{
+  "chatter_detection": {
+    "target": "Sakai-Tech Thin-Walled Pipe",
+    "frequency_threshold_hz": 2500,
+    "power_ratio_threshold": 1.2,
+    "advice": "【警告】薄肉パイプの共振（ビビリ）を検知。何がビビっているか確認してください。剛性が足りない場合は、動画のように振れ止めや芯押しを検討してください。"
+  }
+}
